@@ -1,0 +1,31 @@
+.btn-white{
+    background-color: #FFFFFF;
+    color: #3F87F5;
+    padding: 10px 40px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 8px;
+    border: none;
+}
+.button-blue{
+    background: #3F87F5;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+}
+.text-slate{
+    /* color: #848199; */
+    color: #6C6C6C;
+}
+.fa-check {
+    color : #5243C2;
+    background-color: #e7e5f5;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.fa-check.plus{
+    color: white;
+    background-color: inherit;
+}
